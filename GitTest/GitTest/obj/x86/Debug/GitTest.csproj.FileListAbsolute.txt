@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\GitHub\Test1\GitTest\GitTest\bin\Debug\GitTest.exe
+C:\Users\Administrator\Documents\GitHub\Test1\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\Users\Administrator\Documents\GitHub\Test1\GitTest\GitTest\obj\x86\Debug\GitTest.exe
+C:\Users\Administrator\Documents\GitHub\Test1\GitTest\GitTest\obj\x86\Debug\GitTest.pdb
